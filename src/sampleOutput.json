@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 271,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "The Saudi investment king who no longer rules alone - Reuters.com",
+      "description": "The prince who's the international face of Saudi business may no longer be able to call all the shots.",
+      "url": "https://www.reuters.com/markets/europe/saudi-investment-king-who-no-longer-rules-alone-2022-06-15/",
+      "urlToImage": "https://www.reuters.com/resizer/mhMJuBHlObs-xRAdWdZI3QYkrHU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3U7NRQZXGRLGJLEQIPBTFGHKTM.jpg",
+      "publishedAt": "2022-06-15T04:03:00Z",
+      "content": "DUBAI, June 15 (Reuters) - The prince who's the international face of Saudi business may no longer be able to call all the shots.\r\nFor years, Prince Alwaleed bin Talal, Saudi Arabia's self-styled War… [+6566 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Josh Taylor",
+      "title": "Microsoft to retire Internet Explorer browser and redirect users to Edge",
+      "description": "Company says decision to disable desktop app comes as web developers less likely to make sites compatible with browser, which first graced computers in 1995Microsoft has announced it will kill off its much-maligned legacy internet browser Internet Explorer cl…",
+      "url": "https://amp.theguardian.com/technology/2022/jun/15/microsoft-to-retire-internet-explorer-browser-and-redirect-users-to-edge",
+      "urlToImage": "https://i.guim.co.uk/img/media/36f27b7dc6418241f02b69d071fc310e7a8a526c/0_0_4998_2999/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3de1b77b7bc4f2dea968bdead15100db",
+      "publishedAt": "2022-06-15T02:56:01Z",
+      "content": "Microsoft has announced it will kill off its much-maligned legacy internet browser Internet Explorer close to 27 years after it graced desktop computers in 1995.\r\nFrom 15 June, the desktop app will b… [+3114 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Frank Schräer, mit Material der dpa",
+      "title": "Apple schließt Exklusivvertrag mit Major League Soccer",
+      "description": "Immer mehr Streaming-Dienste sichern sich Übertragungsrechte für Sportveranstaltungen. Apple TV+ zeigt ab 2023 US-amerikanischen Fußball.",
+      "url": "https://www.heise.de/news/Apple-schliesst-Exklusivvertrag-mit-Major-League-Soccer-7140978.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/9/8/3/0/Apple_MLS_Juni_2022-030984dd89b0af3f.webp",
+      "publishedAt": "2022-06-15T02:04:00Z",
+      "content": "Apple baut im Streaming-Wettbewerb mit Netflix und Amazon seine Sport-Übertragungsrechte weiter aus. Ab 2023 wird der iPhone-Konzern exklusiv weltweit die Streamingrechte die Major League Soccer (MLS… [+1937 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Frank Schräer",
+      "title": "Mittwoch: Ransomware-Attacke beeinträchtigt Hessen, Cyberguide gegen Cybercrime",
+      "description": "Cyber-Angriff mit Folgen + Cyberguide unterstützt Polizei + Apple TV+ zeigt US-Fußball + Millionenplus beim Rundfunkbeitrag + 16 Millionen 9-Euro-Tickets",
+      "url": "https://www.heise.de/news/Mittwoch-Ransomware-Attacke-beeintraechtigt-Hessen-Cyberguide-gegen-Cybercrime-7140990.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/9/8/3/6/mittwoch-6999c5be0704a74d.webp",
+      "publishedAt": "2022-06-15T04:30:00Z",
+      "content": "Eine Cyber-Attacke mit Ransomware hat nicht nur Folgen für den direkt angegriffenen IT-Dienstleister in Hessen, sondern auch dessen Kunden. Und da Energieversorger, Stadtwerke und Verkehrsunternehmen… [+3238 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Leo Becker",
+      "title": "heise+ | eSIM und Dual-SIM auf iPhones optimal nutzen",
+      "description": "Mit eSIM und Dual-SIM kann jeder flexibel in verschiedenen Netzen funken, auf Reisen surfen, die bestmögliche Datenverbindung nutzen und Geld sparen.",
+      "url": "https://www.heise.de/ratgeber/eSIM-und-Dual-SIM-auf-iPhones-optimal-nutzen-7139657.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/9/1/4/5/adobestock_142617236_1credit_std_aliaksandr_barouski_stock.adobe.com_2-aba55aebab221622.png",
+      "publishedAt": "2022-06-15T05:30:00Z",
+      "content": "Inhaltsverzeichnis\r\nEine eSIM ist in allen iPhones ab Baujahr 2018 integriert, das umfasst iPhone XR, XS, 11 und 12 sowie das iPhone SE (2. und 3. Generation). Im iPhone 13 stecken sogar zwei eSIMs. … [+2068 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Filipe Espósito",
+      "title": "iPad Air 5 base model lacks memory swap despite being a requirement for Stage Manager",
+      "description": "With iPadOS 16, Apple announced multiple new features that are exclusive to iPads based on the M1 chip, such as Stage Manager for running apps in windows and also virtual memory swap for the first time on an iOS device. Interestingly, while memory swapping is…",
+      "url": "https://9to5mac.com/2022/06/14/ipad-air-5-lacks-memory-swap-stage-manager/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/iPad-Air-5-base-model-lacks-memory-swap-despite-being-a-requirement-for-Stage-Manager.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-15T00:32:33Z",
+      "content": "With iPadOS 16, Apple announced multiple new features that are exclusive to iPads based on the M1 chip, such as Stage Manager for running apps in windows and also virtual memory swap for the first ti… [+4414 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Kenneth Mohammed",
+      "title": "Corruption blights the developing world but the US and Europe are accomplices | Kenneth Mohammed",
+      "description": "State capture is growing on every continent but only because the west helps to launder and hide money stolen by kleptocratsLast week, John Penrose, Boris Johnson’s anti-corruption tsar, resigned in protest at his leader’s apparent breach of the ministerial co…",
+      "url": "https://amp.theguardian.com/global-development/2022/jun/15/state-capture-corruption-blights-developing-world-us-europe-accomplices-mo-ibrahim",
+      "urlToImage": "https://i.guim.co.uk/img/media/b8d365946c2cead7454c46a52e041bbc69ef4f0e/0_83_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b3365ac8ebdc6da24dee530b303569a4",
+      "publishedAt": "2022-06-15T06:00:24Z",
+      "content": "Last week, John Penrose, Boris Johnsons anti-corruption tsar, resigned in protest at his leaders apparent breach of the ministerial code during Partygate. In January, Lord Agnew resigned as a Treasur… [+5173 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.jp" },
+      "author": "はらいさん",
+      "title": "M2搭載13インチMacBook Proは6月17日(金)予約開始、24日(金)発売",
+      "description": "WWDC 2022で発表されたM2チップ搭載の新型MacBook Air及びMacBook Proですが、一足先に新型MacBook Pro（13インチモデル）が発売されます。\n\nM2チップを搭載した13インチMacBook Proは、日本時間6月17日（金）午後9時よりApple公式オンラインストアやApple Storeアプリにて予約開始、6月24日（金）に発売されます。",
+      "url": "https://www.gizmodo.jp/2022/06/macbook-pro-m2-preorder.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/15/8898FF60-AB20-4A9F-8AD0-224676C6F56E-w960.png",
+      "publishedAt": "2022-06-15T02:30:00Z",
+      "content": "Pro\r\nWWDC 2022M2MacBook AirMacBook ProMacBook Pro13\r\nM213MacBook Pro6179AppleApple Store624\r\n13MacBook Pro178,800\r\nM2MacBook Air\r\nSource: Apple"
+    },
+    {
+      "source": { "id": null, "name": "Applesfera.com" },
+      "author": "Jesús Quesada",
+      "title": "Este Apple Watch Series 6 Cellular de acero inoxidable se desploma a precio de aluminio básico y a su mínimo histórico",
+      "description": "Los relojes \"inteligentes\" de acero inoxidable de Apple tienen un precio muy elevado, aunque con ofertas se pueden encontrar mucho más asequibles, como es el caso del Apple Watch Series 6 (GPS + Cellular) de 44 mm y acero inoxidable. Se puede adquirir con un …",
+      "url": "https://www.applesfera.com/seleccion/este-apple-watch-series-6-cellular-acero-inoxidable-se-desploma-a-precio-aluminio-basico-a-su-minimo-historico",
+      "urlToImage": "https://i.blogs.es/55ed37/apple-watch/840_560.jpg",
+      "publishedAt": "2022-06-15T05:49:41Z",
+      "content": "Los relojes \"inteligentes\" de acero inoxidable de Apple tienen un precio muy elevado, aunque con ofertas se pueden encontrar mucho más asequibles, como es el caso del Apple Watch Series 6 (GPS + Cell… [+1676 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BGR" },
+      "author": "Chris Smith",
+      "title": "Apple’s M2 MacBook Pro preorders start on June 17th",
+      "description": "Earlier this year, rumors suggested that Apple would refresh the entry-level MacBook Pro, and Apple delivered. The company announced the M2 MacBook Pro at WWDC 2022, although the brand new M2 MacBook Air got most of the attention. That’s because the 2022 Air …",
+      "url": "https://bgr.com/tech/apples-m2-macbook-pro-preorders-start-on-june-17th/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/06/m2-macbook-pro-preorder-1.jpg?quality=82&strip=all",
+      "publishedAt": "2022-06-15T00:22:00Z",
+      "content": "Earlier this year, rumors suggested that Apple would refresh the entry-level MacBook Pro, and Apple delivered. The company announced the M2 MacBook Pro at WWDC 2022, although the brand new M2 MacBook… [+3113 chars]"
+    },
+    {
+      "source": { "id": null, "name": "36kr.com" },
+      "author": "8点1氪",
+      "title": "8点1氪丨微信推出群聊消息置顶功能；星巴克中国回应未消费能否用洗手间；天堂超市酒吧列入严重违法失信名单",
+      "description": "Nano Labs \n近日，浙江Nano Labs正式向美国证券交易委员会递交IPO申请，拟以NA为股票代码，申请在纳斯达克上市。招股书暂未披露发行量及发行价格等信息。Nano Labs 成立于2019年，是一家无晶圆厂集成电路设计公司和产品解决方案提供商。该公司致力于开发高通量计算(HTC)芯片、高性能计算(HPC)芯片，以及分布式计算和存储解决方案、智能网络接口卡(NIC)视觉计算芯片和分布式渲染。（绿专资本） \n盛科通信股份有限公司 \n科创板上市委公告，苏州盛科通信股份有限公司首发6月21日上会。（证券时报…",
+      "url": "https://36kr.com/p/1785521618341506",
+      "urlToImage": "https://img.36krcdn.com/20220615/v2_6b63d3d95d65454abc17ddb885417c04_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "publishedAt": "2022-06-15T00:08:25Z",
+      "content": "Nano Labs\r\nNano LabsIPONANano Labs 2019(HTC)(HPC)(NIC)\r\n621\r\n610\r\nGOGOX191811005003006707GOGOXGOGOX617624 \r\nTOP3\r\nKTV72\r\n/\r\n4.25%\r\n6145205LPR154.25%\r\n61424390375\r\n3661424390375\r\n2035\r\n68 2035 \r\n36202… [+536 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Caschys Blog" },
+      "author": "Oliver Posselt",
+      "title": "Apple iPad: Neues Einstiegsmodell angeblich in Planung",
+      "description": "Apple hat diverse iPad-Modelle am Start, am attraktivsten wird für den einen oder anderen jedoch das 10,2-Zoll-Tablet der 9. Generation sein, das für knapp 360 Euro zu haben ist. Es besitzt zwar noch das alte Design mit breiteren Rahmen und...Zum Beitrag: App…",
+      "url": "https://stadt-bremerhaven.de/apple-ipad-neues-einstiegsmodell-angeblich-in-planung/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2021/09/iPad-Gen9-2021-7_caschysblog.webp",
+      "publishedAt": "2022-06-15T05:00:41Z",
+      "content": "Apple hat diverse iPad-Modelle am Start, am attraktivsten wird für den einen oder anderen jedoch das 10,2-Zoll-Tablet der 9. Generation sein, das für knapp 360 Euro zu haben ist. Es besitzt zwar noch… [+1708 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Caschys Blog" },
+      "author": "André Westphal",
+      "title": "Google Maps zeigt Maut-Kosten auf Routen an (noch nicht in Deutschland)",
+      "description": "Hi Google Maps zeigt unter sowohl Apple iOS als auch Android in den USA, Indien, Japan und Indonesien auf Wunsch nun an, welche Maut-Kosten bei der ausgewählten Route aufkommen. Hierzulande könnt ihr zwar unter Optionen aktivieren, dass ihr Maustraßen meiden.…",
+      "url": "https://stadt-bremerhaven.de/google-maps-zeigt-maut-kosten-auf-routen-an-nur-usa/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2020/02/Google-Maps.jpg",
+      "publishedAt": "2022-06-15T04:30:33Z",
+      "content": "Hi\r\nGoogle Maps zeigt unter sowohl Apple iOS als auch Android in den USA, Indien, Japan und Indonesien auf Wunsch nun an, welche Maut-Kosten bei der ausgewählten Route aufkommen. Hierzulande könnt ih… [+955 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Caschys Blog" },
+      "author": "caschy",
+      "title": "Pocket: Migration auf Firefox-Konten verschoben",
+      "description": "Im Februar berichteten wir davon, dass Pocket, der zu Mozilla gehörende Dienst zum späteren Lesen von Inhalten, ab Ende Juni zwingend ein Firefox-Konto voraussetzen wird. Dadurch werde Pocket laut Aussagen des Unternehmens nicht nur sicherer, sondern Nutzer k…",
+      "url": "https://stadt-bremerhaven.de/pocket-migration-auf-firefox-konten-verschoben/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/pocket_.jpg",
+      "publishedAt": "2022-06-15T06:00:50Z",
+      "content": "Im Februar berichteten wir davon, dass Pocket, der zu Mozilla gehörende Dienst zum späteren Lesen von Inhalten, ab Ende Juni zwingend ein Firefox-Konto voraussetzen wird. Dadurch werde Pocket laut Au… [+1086 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "study875",
+      "title": "iPhone 14机模上手：Pro型号线圈部分下移以兼容MagSafe配件",
+      "description": "多家媒体已经提前获得了 iPhone 14 系列的机模，国外科技媒体 AppleInsider 也不例外，并将其和 iPhone 13 进行了较为详细的对比。这些机模同样来自于配件厂商，它们通常会在这些配件上投入大量资金，因此可信度还是非常高的。只是机模只是显示孔位等信息，不会对技术、材质、颜色、内部规格提供见解。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280949.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/0615/8a1a27c90c37199.webp",
+      "publishedAt": "2022-06-15T03:01:21Z",
+      "content": "iPhone 14 4 Pro Pro 6.1 6.7 6.1 iPhone 146.7 iPhone 14 Max6.1 iPhone 14 Pro 6.7 iPhone 14 Pro Max\r\niPhone 14 iPhone 13 mini 6.7 iPhone 14 Max\r\nPro 35 40 \r\nMagSafe MagSafe Duo iPhone 13 Pro Apple MagS… [+123 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "study875",
+      "title": "苹果Professional Learning计划现提供免费暑期夏令营课程",
+      "description": "在 Professional Learning 课程中，苹果宣布了一系列基于 iPad 的夏令营免费虚拟会议，涵盖照片故事和音乐等等。作为现有职业培训计划的延伸，Apple Professional Learning Virtual Conferences 将完全免费提供。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280921.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/0615/1ce6e5e18bfe47a.webp",
+      "publishedAt": "2022-06-15T01:47:21Z",
+      "content": "Professional Learning iPad\r\nApple Professional Learning Virtual\r\nConferences"
+    },
+    {
+      "source": { "id": null, "name": "Touchlab.jp" },
+      "author": "Nakimo",
+      "title": "【4.5%還元】Rebatesで「Apple公式サイトのApple Watch購入キャンペーン」が開催中",
+      "description": "「Rebates(リーベイツ)」で、Apple公式サイトのApple Watch購入に対して4.5%をポイント還元するキャンペーンが開催されています。 楽天が運営する「Rebates(リーベイツ)」は、700以上のブラン […]\nThe post 【4.5%還元】Rebatesで「Apple公式サイトのApple Watch購入キャンペーン」が開催中 first appeared on Touch Lab - タッチ ラボ.©2019 \"Touch Lab - タッチ ラボ\".",
+      "url": "http://touchlab.jp/2022/06/rebates_apple_2022june15/",
+      "urlToImage": "http://touchlab.jp/wp-content/uploads/2022/06/rebates_2022june15_1.jpg",
+      "publishedAt": "2022-06-15T02:47:41Z",
+      "content": "「Rebates(リーベイツ)」で、Apple公式サイトのApple Watch購入に対して4.5%をポイント還元するキャンペーンが開催されています。\n\n楽天が運営する「Rebates(リーベイツ)」は、700以上のブランドやオンラインショップでいつも通り買い物をするだけで、楽天ポイントが貰えるサービスです。\nApple公式サイトも参加しており購入額の1.0%がポイント還元されますが、現在App… [+458 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "jazztangcay",
+      "title": "‘Central Park’ Creator Josh Gad on Molly’s Puberty Journey: From Periods to First Bras, We’re ‘Allowing This Young Girl to Grow’",
+      "description": "Though Season 2 of Apple TV+’s “Central Park” features a slew of changes for the lovable Tillermans, one family member has a harder time than most. Not only is daughter Molly — now voiced by Emmy Raver-Lampman to provide accurate representation for the mixed-…",
+      "url": "https://variety.com/2022/artisans/news/central-park-josh-gad-molly-emmy-raver-lampman-1235293734/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/06/Central_Park_Photo_020501.jpg?w=1000",
+      "publishedAt": "2022-06-15T00:07:52Z",
+      "content": "Though Season 2 of Apple TV+’s “Central Park” features a slew of changes for the lovable Tillermans, one family member has a harder time than most. Not only is daughter Molly — now voiced by Emmy Rav… [+5948 chars]"
+    },
+    {
+      "source": { "id": "el-mundo", "name": "El Mundo" },
+      "author": "JAVIER ATTARD, SANTIAGO OSPITAL",
+      "title": "Bombas, espías y lava: así te ha contado 'EL MUNDO al día' todo lo que ha ocurrido el último año",
+      "description": "¿Por qué es importante que EL MUNDO también se escuche? ¿Qué hay detrás de EL MUNDO al día? ¿De qué hemos estado hablando todo este tiempo? ¿Cuáles son los retos para el...",
+      "url": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2022/06/15/62a8fda721efa0505f8b45f8.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0120a6af907524d3cad1176f42c9f7b0/resize/1200/f/jpg/assets/multimedia/imagenes/2022/06/15/16552446156143.jpg",
+      "publishedAt": "2022-06-15T00:37:33Z",
+      "content": "¿Por qué es importante que EL MUNDO también se escuche? ¿Qué hay detrás de EL MUNDO al día? ¿De qué hemos estado hablando todo este tiempo? ¿Cuáles son los retos para el futuro? Dialogamos con Joaquí… [+497 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Osxdaily.com" },
+      "author": "Paul Horowitz",
+      "title": "Beta 3 of iOS 15.6, iPadOS 15.6, macOS Monterey 12.5, Released for Testing",
+      "description": "Though Apple is now primarily working on beta versions of iOS 16, iPadOS 16, and macOS Ventura 13, the company is continuing to also work on beta versions for the current generation of system software. With that in mind, Apple has just released the third beta…",
+      "url": "https://osxdaily.com/2022/06/14/beta-3-of-ios-15-6-ipados-15-6-macos-monterey-12-5-released-for-testing/",
+      "urlToImage": "https://cdn.osxdaily.com/wp-content/uploads/2021/07/ios-ipados-macos-betas.jpg",
+      "publishedAt": "2022-06-15T02:30:07Z",
+      "content": "Though Apple is now primarily working on beta versions of iOS 16, iPadOS 16, and macOS Ventura 13, the company is continuing to also work on beta versions for the current generation of system softwar… [+1080 chars]"
+    }
+  ]
+}
