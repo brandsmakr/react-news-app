@@ -10,17 +10,20 @@ export class NewsItem extends Component {
     // }
 
   render() {
-    let {title, description, imageUrl} = this.props;
+    let {title, description, imageUrl, newsUrl} = this.props;
     return (
       <>
-        <div className="card my-3" style={{width: '18rem'}}>
-          <img src={imageUrl} className="card-img-top" alt="..." />
+        <div className="card my-3" style={{width: '20rem'}}>
+          <img 
+          // src={imageUrl?imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDbYS8LG21z52niY6oyXTtfS9Ug_QOUZSig&usqp=CAU"} 
+          src={!imageUrl?"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDbYS8LG21z52niY6oyXTtfS9Ug_QOUZSig&usqp=CAU" : imageUrl}
+          className="card-img-top" alt="..." />
           <div className="card-body">
-            <h5 className="card-title">{title}</h5>
+            <h5 className="card-title">{title} .....</h5>
             <p className="card-text">
-              {description}
+              {description} .....
             </p>
-            <a href="/news-detials/" className="btn btn-sm btn-primary">
+            <a href={newsUrl} rel='noreferrer' target="_blank" className="btn btn-sm btn-dark">
               Go somewhere
             </a>
           </div>
