@@ -22,19 +22,19 @@ export default class App extends Component {
 
           <Switch>
             <Route
-              key="general"
+              key="hm"
               exact
               path="/"
               element={<News pageSize={15} />}
             />
             <Route
-              key="business"
+              key="bs"
               exact
               path="/business"
               element={<News pageSize={15} country="us" category="business" />}
             />
             <Route
-              key="entertainment"
+              key="en"
               exact
               path="/entertainment"
               element={
@@ -42,31 +42,31 @@ export default class App extends Component {
               }
             />
             <Route
-              key="general"
+              key="gn"
               exact
               path="/general"
               element={<News pageSize={15} country="us" category="general" />}
             />
             <Route
-              key="health"
+              key="hl"
               exact
               path="/health"
               element={<News pageSize={15} country="us" category="health" />}
             />
             <Route
-              key="science"
+              key="sc"
               exact
               path="/science"
               element={<News pageSize={15} country="us" category="science" />}
             />
             <Route
-              key="sports"
+              key="sp"
               exact
               path="/sports"
               element={<News pageSize={15} country="us" category="sports" />}
             />
             <Route
-              key="technology"
+              key="tc"
               exact
               path="/technology"
               element={
