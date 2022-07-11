@@ -13,6 +13,9 @@ import {
 
 export default class App extends Component {
   c = "talha";
+
+  pSize = 14;
+
   render() {
     return (
       <div>
@@ -22,55 +25,47 @@ export default class App extends Component {
 
           <Switch>
             <Route
-              key="hm"
               exact
               path="/"
-              element={<News pageSize={15} />}
+              element={<News pageSize={this.pSize} key="home" />}
             />
             <Route
-              key="bs"
               exact
               path="/business"
-              element={<News pageSize={15} country="us" category="business" />}
+              element={<News pageSize={this.pSize} country="us" category="business" key="business" />}
             />
             <Route
-              key="en"
               exact
               path="/entertainment"
               element={
-                <News pageSize={15} country="us" category="entertainment" />
+                <News pageSize={this.pSize} country="us" category="entertainment" key="entertainment" />
               }
             />
             <Route
-              key="gn"
               exact
               path="/general"
-              element={<News pageSize={15} country="us" category="general" />}
+              element={<News pageSize={this.pSize} country="us" category="general" key="general" />}
             />
             <Route
-              key="hl"
               exact
               path="/health"
-              element={<News pageSize={15} country="us" category="health" />}
+              element={<News pageSize={this.pSize} country="us" category="health" key="health" />}
             />
             <Route
-              key="sc"
               exact
               path="/science"
-              element={<News pageSize={15} country="us" category="science" />}
+              element={<News pageSize={this.pSize} country="us" category="science" key="science" />}
             />
             <Route
-              key="sp"
               exact
               path="/sports"
-              element={<News pageSize={15} country="us" category="sports" />}
+              element={<News category="sports" pageSize={this.pSize} country="us" key="sports"  />}
             />
             <Route
-              key="tc"
               exact
               path="/technology"
               element={
-                <News pageSize={15} country="us" category="technology" />
+                <News pageSize={this.pSize} country="us" category="technology" key="technology" />
               }
             />
           </Switch>
