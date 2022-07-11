@@ -8,11 +8,15 @@ class News extends Component {
     country: "us",
     pageSize: 14,
     category: "general",
+    newsSource: "source"
   };
   static propTypes = {
     country: PropTypes.string,
     pageSize: PropTypes.number,
     category: PropTypes.string,
+    author: PropTypes.string,
+    date: PropTypes.string,
+    source: PropTypes.string
   };
 
   constructor() {
@@ -152,17 +156,21 @@ class News extends Component {
         <div className="row">
           {this.state.loading && <Spinner />}
           {!this.state.loading &&
+          //  map enclose in () bracket not in square bracket {}
             this.state.newsArticles?.map((news) => {
               // console.log(data);
               return (
                 <div className="col-md-4" key={news.url}>
                   <NewsItem
-                    imageUrl={news.urlToImage}
-                    title={news.title ? news.title.slice(0, 45) : ""}
-                    description={
+                    imageUrl = {news.urlToImage}
+                    title = {news.title ? news.title.slice(0, 45) : ""}
+                    description = {
                       news.description ? news.description.slice(0, 88) : ""
                     }
-                    newsUrl={news.url}
+                    newsUrl = {news.url}
+                    author = {news.author}
+                    date = {news.publishedAt}
+                    newsSource = {news.source.name}
                   />
                 </div>
               );
