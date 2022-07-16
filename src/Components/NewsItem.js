@@ -27,11 +27,11 @@ export class NewsItem extends Component {
           <div className="card-body">
             <h5 className="card-title">{title} .....</h5>
             <span
-              class="position-absolute top-0  translate-middle badge rounded-pill bg-success"
+              className="position-absolute top-0  translate-middle badge rounded-pill bg-success"
               style={{ left: "90%", zIndex: 1 }}
             >
               {newsSource}
-              <span class="visually-hidden">unread messages</span>
+              <span className="visually-hidden">unread messages</span>
             </span>
             <p className="card-text">{description} .....</p>
             <p className="card-text">
