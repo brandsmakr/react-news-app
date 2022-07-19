@@ -22,7 +22,7 @@ const News = (props) => {
 
   const updateNews = async () => {
     props.setProgress (10);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=b15ac8649b224c3f97b83b17d296860c&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
 
     props.setProgress (25);
 
@@ -67,7 +67,7 @@ const News = (props) => {
   }
 
     return (
-      <div className="container my-3">
+      <div className="container my-2 mt-5 pt-5">
         <h1 className="text-center my-4">
           {" "}
           NewsMonkey - Top Headlines of{" "}
@@ -83,7 +83,7 @@ const News = (props) => {
           >
         <div className="container">
         <div className="row">
-          {loading && <Spinner />}
+          {/* {loading && <Spinner />} */}
             {
               newsArticles.map((news) => {
                 // console.log(data);
